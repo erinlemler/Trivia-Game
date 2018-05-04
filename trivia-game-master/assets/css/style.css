@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    background-image: url(http://cdn1us.denofgeek.com/sites/denofgeekus/files/game-of-thrones-wallpaper.jpg);
+}
+
+#score-btn {
+    margin: 20px;
+    padding: 20px;
+    font-family: fantasy;
+    
+}
+
+#text-title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+    color: goldenrod;
+}
+
+h2 {
+    color: goldenrod;        
+}
+
+#game-zone {
+    color: goldenrod; 
+}
+
+#timer {
+    color: firebrick;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: dimgrey
+}
+
